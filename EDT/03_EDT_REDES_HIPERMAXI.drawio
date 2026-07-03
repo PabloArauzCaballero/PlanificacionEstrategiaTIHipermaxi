@@ -1,0 +1,312 @@
+<mxfile host="Electron" agent="ChatGPT" pages="2">
+  <diagram id="cf813d58ce66" name="EDT por entregables">
+    <mxGraphModel dx="2943" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2170" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=24;fillColor=#062B24;strokeColor=#062B24;fontColor=#FFFFFF;shadow=0;" value="3.0 REDES — Estrategia Integral de Tecnologías de Información para la Modernización Operativa de HIPERMAXI&lt;br&gt;&lt;span&gt;EDT / WBS por entregables aceptables para el cliente&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="1720" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="root_project" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=18;fillColor=#F9FAFB;strokeColor=#111827;fontColor=#111827;shadow=1;" value="PROYECTO&lt;br&gt;&lt;span&gt;Estrategia Integral de Tecnologías de Información para la Modernización Operativa de HIPERMAXI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="960" x="420" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="comp" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=18;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=1;" value="3.0 REDES&lt;br&gt;&lt;span&gt;Resultado vendible: HIPERMAXI recibe conectividad estable y segura entre tienda, operación administrativa, invitados, cajas/POS y nube, con documentación as-built y pruebas de desempeño.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="1160" x="320" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="e_root_comp" edge="1" parent="1" source="root_project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6B7280;strokeWidth=1.5;endArrow=block;endFill=1;fontSize=18;" target="comp" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-2" edge="1" parent="1" source="d0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.1 Experto en redes contratado&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; especialista responsable del diseño, validación y supervisión de red&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; perfil técnico, contrato, alcance, cronograma de visitas y matriz de responsabilidades&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; experto de red habilitado para dirigir la implementación&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; contrato firmado y plan técnico inicial aprobado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="80" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tag0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.1" vertex="1">
+          <mxGeometry height="24" width="55" x="790" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-3" edge="1" parent="1" source="d1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.2 Servicios de conectividad contratados&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; internet/enlaces contratados para operación de tienda y conexión cloud&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; contratos ISP, velocidades, SLA, IPs, soporte NOC y plan de contingencia de enlace&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; conectividad primaria/secundaria disponible&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; prueba de velocidad, latencia y estabilidad documentada&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="930" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tag1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.2" vertex="1">
+          <mxGeometry height="24" width="55" x="1640" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-4" edge="1" parent="1" source="d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.3 Personal operativo de red contratado/asignado&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; equipo operativo para instalación, soporte y ejecución en terreno&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; roles, turnos, credenciales de acceso, normas de seguridad y plan de trabajo&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; equipo operativo listo para instalación&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; personal asignado, autorizado y capacitado en normas del sitio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="930" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="tag2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.3" vertex="1">
+          <mxGeometry height="24" width="55" x="1640" y="653" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-5" edge="1" parent="1" source="d3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.4 Terreno preparado para red&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; áreas listas para cableado, equipos de red, canaletas, puntos y gabinete&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; levantamiento, rutas de cable, puntos de red, permisos de trabajo y checklist de sitio&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; sitio liberado para instalación de red&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; validación física del experto de redes e infraestructura&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="80" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="tag3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.4" vertex="1">
+          <mxGeometry height="24" width="55" x="790" y="653" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-6" edge="1" parent="1" source="d4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.5 Switches, router y dispositivos de red instalados&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; equipos de red físicos instalados y configuración base operativa&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; switches, router/firewall, direccionamiento, firmware, backups de configuración y etiquetas&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; núcleo de red operativo&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; conectividad interna validada y configuraciones respaldadas&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="80" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="tag4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.5" vertex="1">
+          <mxGeometry height="24" width="55" x="790" y="938" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-7" edge="1" parent="1" source="d5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.6 Puntos de acceso instalados&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; cobertura WiFi para áreas definidas: administración, operación y/o invitados&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; AP instalados, SSID, cobertura, claves, segmentación y mapa de ubicación&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; cobertura inalámbrica validada&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; pruebas de señal y conexión por zona aprobadas&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="930" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="tag5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.6" vertex="1">
+          <mxGeometry height="24" width="55" x="1640" y="938" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-8" edge="1" parent="1" source="d6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.7 Cableado estructurado implementado&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; puntos de red instalados y etiquetados para cajas, oficinas, almacén y equipos críticos&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; cableado UTP/fibra según aplique, patch panel, faceplates, certificación y plano de puntos&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; puntos de red físicos certificados&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; prueba de continuidad/certificación y documentación de puntos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="930" y="1215" as="geometry" />
+        </mxCell>
+        <mxCell id="tag6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.7" vertex="1">
+          <mxGeometry height="24" width="55" x="1640" y="1223" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-9" edge="1" parent="1" source="d7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.8 VPN sucursal-cloud configurada&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; túnel seguro entre tienda/sucursal y servicios cloud&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; VPN site-to-site, reglas de acceso, rutas, llaves/certificados y prueba de comunicación&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; sucursal conectada de forma segura a cloud&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; prueba de acceso a servicios cloud desde red interna&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="80" y="1215" as="geometry" />
+        </mxCell>
+        <mxCell id="tag7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.8" vertex="1">
+          <mxGeometry height="24" width="55" x="790" y="1223" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-10" edge="1" parent="1" source="d8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.9 Seguridad de red implementada&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; firewalls, VLAN cajas/admin/invitados y acceso seguro para soporte&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; reglas firewall, segmentación VLAN, VPN soporte, políticas de acceso y registro de cambios&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; red segmentada y protegida&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; pruebas de aislamiento entre VLAN y acceso autorizado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="80" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="tag8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.9" vertex="1">
+          <mxGeometry height="24" width="55" x="790" y="1508" as="geometry" />
+        </mxCell>
+        <mxCell id="xrg2UOFES4uHy5lLPF5X-11" edge="1" parent="1" source="d9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.10 Pruebas y documentación as-built&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; evidencia de latencia, velocidad, failover y documentación final de red&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; pruebas de rendimiento, prueba de caída/enlace alterno, planos as-built y respaldos de configuración&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; red certificada para operación&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; acta de pruebas firmada por TI/operación&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="930" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="tag9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.10" vertex="1">
+          <mxGeometry height="24" width="55" x="1640" y="1508" as="geometry" />
+        </mxCell>
+        <mxCell id="d10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;shadow=1;strokeWidth=1.2;fillColor=#E7F7F5;strokeColor=#0B6B63;fontColor=#111827;align=left;verticalAlign=top;spacing=12;fontSize=20;" value="&lt;div&gt;&lt;b&gt;3.11 Manuales y capacitación de operación de red&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Cliente recibe:&lt;/b&gt; manual de soporte de red, guía de incidentes, matriz de escalamiento y capacitación&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Subentregables:&lt;/b&gt; manual de VLAN/firewall, guía WiFi, checklist mensual, contacto ISP y sesión práctica para soporte&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Hito:&lt;/b&gt; equipo local capaz de operar y escalar fallas de red&lt;/div&gt;&lt;div style=&quot;margin-top: 4px;&quot;&gt;&lt;b&gt;Aceptación:&lt;/b&gt; lista de asistencia, prueba guiada y acta de transferencia&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="780" x="930" y="1785" as="geometry" />
+        </mxCell>
+        <mxCell id="tag10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=20;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" value="3.11" vertex="1">
+          <mxGeometry height="24" width="55" x="1640" y="1793" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ef19b1672418" name="Hitos y aceptación">
+    <mxGraphModel dx="1900" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="918" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="3.0 REDES — Hitos, evidencias y aceptación" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=18;fillColor=#062B24;strokeColor=#062B24;fontColor=#FFFFFF;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="1720" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="h0" value="WBS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=12;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" value="Entregable" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=12;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" value="Evidencia que debe recibir el cliente" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=12;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3" value="Hito de cierre" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=12;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="130" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h4" value="Acepta" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=12;fillColor=#0B6B63;strokeColor=#0B6B63;fontColor=#FFFFFF;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="130" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r0_0" value="3.1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r0_1" value="Experto en redes contratado" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r0_2" value="perfil técnico, contrato, alcance, cronograma de visitas y matriz de responsabilidades" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r0_3" value="experto de red habilitado para dirigir la implementación" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="170" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r0_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="170" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_0" value="3.2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="228" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_1" value="Servicios de conectividad contratados" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="228" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_2" value="contratos ISP, velocidades, SLA, IPs, soporte NOC y plan de contingencia de enlace" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="228" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_3" value="conectividad primaria/secundaria disponible" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="228" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="228" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_0" value="3.3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="286" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_1" value="Personal operativo de red contratado/asignado" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="286" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_2" value="roles, turnos, credenciales de acceso, normas de seguridad y plan de trabajo" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="286" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_3" value="equipo operativo listo para instalación" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="286" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="286" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_0" value="3.4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="344" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_1" value="Terreno preparado para red" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="344" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_2" value="levantamiento, rutas de cable, puntos de red, permisos de trabajo y checklist de sitio" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="344" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_3" value="sitio liberado para instalación de red" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="344" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="344" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r4_0" value="3.5" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="402" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r4_1" value="Switches, router y dispositivos de red instalados" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="402" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r4_2" value="switches, router/firewall, direccionamiento, firmware, backups de configuración y etiquetas" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="402" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r4_3" value="núcleo de red operativo" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="402" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r4_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="402" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r5_0" value="3.6" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r5_1" value="Puntos de acceso instalados" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r5_2" value="AP instalados, SSID, cobertura, claves, segmentación y mapa de ubicación" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="460" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r5_3" value="cobertura inalámbrica validada" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="460" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r5_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="460" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r6_0" value="3.7" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="518" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r6_1" value="Cableado estructurado implementado" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="518" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r6_2" value="cableado UTP/fibra según aplique, patch panel, faceplates, certificación y plano de puntos" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="518" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r6_3" value="puntos de red físicos certificados" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="518" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r6_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="518" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r7_0" value="3.8" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="576" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r7_1" value="VPN sucursal-cloud configurada" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="576" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r7_2" value="VPN site-to-site, reglas de acceso, rutas, llaves/certificados y prueba de comunicación" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="576" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r7_3" value="sucursal conectada de forma segura a cloud" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="576" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r7_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="576" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_0" value="3.9" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="634" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_1" value="Seguridad de red implementada" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="634" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_2" value="reglas firewall, segmentación VLAN, VPN soporte, políticas de acceso y registro de cambios" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="634" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_3" value="red segmentada y protegida" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="634" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r8_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="634" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r9_0" value="3.10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="692" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r9_1" value="Pruebas y documentación as-built" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="692" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r9_2" value="pruebas de rendimiento, prueba de caída/enlace alterno, planos as-built y respaldos de configuración" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="692" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r9_3" value="red certificada para operación" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="692" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r9_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#FFFFFF;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="692" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r10_0" value="3.11" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="750" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r10_1" value="Manuales y capacitación de operación de red" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="750" width="430" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r10_2" value="manual de VLAN/firewall, guía WiFi, checklist mensual, contacto ISP y sesión práctica para soporte" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="750" width="420" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r10_3" value="equipo local capaz de operar y escalar fallas de red" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="750" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="r10_4" value="Gerencia TI / Operaciones" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#111827;shadow=0;align=left;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="750" width="350" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="foot" value="Nota: los hitos no tienen duración propia; son puntos de validación para liberar el siguiente bloque de trabajo." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=10;fillColor=#F9FAFB;strokeColor=#D1D5DB;fontColor=#374151;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="848" width="1680" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
